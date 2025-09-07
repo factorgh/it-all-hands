@@ -203,9 +203,9 @@ export function CoursesSection() {
                         <div className="text-2xl font-bold text-foreground">
                           {course.price}
                         </div>
-                        <div className="text-sm text-muted-foreground">
+                        {/* <div className="text-sm text-muted-foreground">
                           One-time payment
-                        </div>
+                        </div> */}
                       </div>
                     </div>
                     <CardTitle className="text-xl font-bold text-foreground mb-2">
